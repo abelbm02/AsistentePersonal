@@ -19,7 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+*.pdf
 # Entornos virtuales
 .venv/
 venv/
@@ -31,3 +31,4 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+
