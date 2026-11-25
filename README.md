@@ -4,22 +4,24 @@ Aplicación de consola interactiva diseñada para resolver tareas cotidianas rea
 
 Proyecto desarrollado para la asignatura **Programación IA (2026/27)** de **iLERNA** (UD02: Funciones en Python).
 
+Realizado por: Abel Blanco Muñoz
+
 ---
 
 ## ✨ Funcionalidades principales
 
 El asistente cuenta con un menú interactivo en consola a prueba de errores y se organiza en **8 módulos**:
 
-| # | Módulo | Qué puedes hacer en el día a día |
-|---|--------|----------------------------------|
-| **1** | **Gestión de compras** | Calcular precios con descuento e IVA, ahorro total y comparar precio por unidad/kilo. |
-| **2** | **Gestión económica** | Controlar presupuesto mensual, sumar múltiples gastos y repartir cuentas entre amigos (con propina opcional). |
-| **3** | **Conversores** | Convertir temperaturas (°C, °F, K), distancias (`km ↔ millas ↔ metros` para entrenos/viajes) y tiempos (`minutos → h:min`). |
-| **4** | **Agenda de contactos** | Añadir contactos con etiqueta (entreno, familia, trabajo), buscar por nombre o categoría y ordenar alfabéticamente. |
-| **5** | **Gestión de productos** | Registrar despensa, suplementación o material deportivo, consultar stock y detectar productos con existencias bajas. |
-| **6** | **Utilidades matemáticas** | Calcular **factorial**, serie de **Fibonacci** y **MCD** (máximo común divisor). |
+| #     | Módulo                            | Qué puedes hacer en el día a día                                                                                                     |
+| ----- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Gestión de compras**            | Calcular precios con descuento e IVA, ahorro total y comparar precio por unidad/kilo.                                                |
+| **2** | **Gestión económica**             | Controlar presupuesto mensual, sumar múltiples gastos y repartir cuentas entre amigos (con propina opcional).                        |
+| **3** | **Conversores**                   | Convertir temperaturas (°C, °F, K), distancias (`km ↔ millas ↔ metros` para entrenos/viajes) y tiempos (`minutos → h:min`).          |
+| **4** | **Agenda de contactos**           | Añadir contactos con etiqueta (entreno, familia, trabajo), buscar por nombre o categoría y ordenar alfabéticamente.                  |
+| **5** | **Gestión de productos**          | Registrar despensa, suplementación o material deportivo, consultar stock y detectar productos con existencias bajas.                 |
+| **6** | **Utilidades matemáticas**        | Calcular **factorial**, serie de **Fibonacci** y **MCD** (máximo común divisor).                                                     |
 | **7** | **Conteo y análisis de entrenos** | Registrar sesiones de entrenamiento, obtener estadísticas (total, media, mínimo, máximo) y filtrar sesiones que superen un objetivo. |
-| **8** | **Persistencia y salida** | Guardado automático de contactos, inventario, gastos y entrenamientos en archivos `.json` y cierre seguro del programa. |
+| **8** | **Persistencia y salida**         | Guardado automático de contactos, inventario, gastos y entrenamientos en archivos `.json` y cierre seguro del programa.              |
 
 ---
 
