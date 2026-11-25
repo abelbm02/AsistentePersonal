@@ -54,7 +54,19 @@ AsistentePersonal/
 │
 ├── Proyecto_AsistentePersonal/
 │   ├── main.py                  # Punto de entrada y menú interactivo
-│   └── funciones.py             # Módulo unificado con toda la lógica del asistente
+│   ├── funciones.py             # Módulo central que reúne y reexporta funciones
+│   ├── modulos/                 # Módulos temáticos organizados por responsabilidad
+│   │   ├── __init__.py
+│   │   ├── compras.py           # Gestión de compras, descuentos, IVA y comparador
+│   │   ├── economia.py          # Presupuesto mensual, gastos y reparto de cuentas
+│   │   ├── conversores.py       # Conversores de temperatura, tiempo y distancia
+│   │   ├── contactos.py         # Agenda de contactos (registro, búsqueda y ordenación)
+│   │   ├── productos.py         # Control de despensa/material y alertas de stock
+│   │   ├── matematicas.py       # Factorial, Fibonacci y MCD recursivos
+│   │   ├── entrenos.py          # Conteo, estadísticas y filtrado de entrenamientos
+│   │   ├── almacenamiento.py    # Carga y guardado automático en JSON
+│   │   └── validaciones.py      # Validación segura de entradas por consola
+│   └── datos/                   # Carpeta donde se guardan los archivos .json
 │
 ├── .gitignore
 └── README.md
