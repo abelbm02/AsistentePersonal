@@ -4,7 +4,7 @@ Aplicación de consola interactiva diseñada para resolver tareas cotidianas rea
 
 Proyecto desarrollado para la asignatura **Programación IA (2026/27)** de **iLERNA** (UD02: Funciones en Python).
 
-Realizado por: Abel Blanco Muñoz
+Realizado por: **Abel Blanco Muñoz**
 
 ---
 
