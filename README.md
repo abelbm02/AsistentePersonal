@@ -1,4 +1,4 @@
-# 🤖 Mi Asistente Personal en Python
+#  Mi Asistente Personal en Python
 
 Aplicación de consola interactiva diseñada para resolver tareas cotidianas reales —gestión de compras, finanzas, conversores, agenda, inventario, utilidades matemáticas y **conteo/análisis de entrenamientos**— con **guardado automático en JSON** para conservar tus datos entre sesiones.
 
@@ -8,7 +8,7 @@ Realizado por: **Abel Blanco Muñoz**
 
 ---
 
-## ✨ Funcionalidades principales
+##  Funcionalidades principales
 
 El asistente cuenta con un menú interactivo en consola a prueba de errores y se organiza en **8 módulos**:
 
@@ -25,7 +25,7 @@ El asistente cuenta con un menú interactivo en consola a prueba de errores y se
 
 ---
 
-## 🛠️ Requisitos técnicos cubiertos
+##  Requisitos técnicos cubiertos
 
 El código está diseñado de forma modular y reutilizable, aplicando todos los conceptos clave de funciones en Python:
 
@@ -40,7 +40,7 @@ El código está diseñado de forma modular y reutilizable, aplicando todos los 
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```text
 AsistentePersonal/
@@ -62,7 +62,7 @@ AsistentePersonal/
 
 ---
 
-## 🚀 Cómo ejecutarlo
+##  Cómo ejecutarlo
 
 ### Requisitos previos
 - **Python 3.10** o superior (no requiere librerías externas; solo usa la biblioteca estándar de Python).
@@ -84,10 +84,3 @@ AsistentePersonal/
    python AP_Recursividad.py
    ```
 
----
-
-## 👤 Autor
-
-**Abel Blanco Muñoz**
-- GitHub: [@abelbm02](https://github.com/abelbm02)
-- Asignatura: Programación IA 2026/27 — iLERNA
